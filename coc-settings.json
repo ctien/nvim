@@ -1,0 +1,12 @@
+{
+  "suggest.noselect": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "json",
+    "javascriptreact",
+    "typescriptreact",
+    "typescript.tsx"
+  ],
+  "tsserver.enableJavascript": false
+}
